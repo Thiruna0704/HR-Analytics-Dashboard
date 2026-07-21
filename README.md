@@ -46,6 +46,4 @@ HR-Analytics-Dashboard
 ├── Images
 ├── PowerBI
 ├── README.md
-Author
 
-Thirunavukarasu M
